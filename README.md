@@ -1,0 +1,1 @@
+In this component we are displaying post data of user same as in Facebook

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background-color:white;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 10px 7px  rgba(50, 50, 50, 0.45);
+    padding: 10px;
+    
+}
+.search-box{
+    padding: 10px;
+    margin: 10px;
+}
+p{
+    margin: 10px 0px;
+}
